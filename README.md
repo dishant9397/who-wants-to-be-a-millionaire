@@ -1,4 +1,4 @@
-# Who wants to be a millionaire? (Swift)
+# Who wants to be a Millionaire? (Swift)
   
 * The game, which was developed in command line interface using Swift, proved one of the best practices for CLI programming, elevating me to get used-to with CLI workflow.   
 * First of all, the user has to enter name and select difficulty level, from either "Easy" or "Hard", to proceed and lifelines were provided on the basis of rules that were optional. 
